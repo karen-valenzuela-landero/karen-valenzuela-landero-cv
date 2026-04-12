@@ -15,11 +15,10 @@ public class ProfileService {
 
                 List.of(
                         "Java Development",
-                        "Velneo Development",
                         "Web Development",
-                        "Code Review",
                         "Unit Testing",
-                        "Scrum"
+                        "Scrum",
+                        "Velneo Development"
                 ),
 
                 List.of(
