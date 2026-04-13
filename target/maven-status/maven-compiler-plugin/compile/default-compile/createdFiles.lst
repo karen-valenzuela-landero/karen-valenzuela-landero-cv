@@ -1,4 +1,5 @@
 com\karenvalenzuela\cv\controller\ProfileController.class
+com\karenvalenzuela\cv\controller\HealthController.class
 com\karenvalenzuela\cv\model\Profile.class
 com\karenvalenzuela\cv\service\ProfileService.class
 com\karenvalenzuela\cv\CVApplication.class
