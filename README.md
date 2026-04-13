@@ -1,7 +1,7 @@
 # 💼 My CV as an API
 
-/* 🌐 Interactive CV:
- https://karen-cv.netlify.app */
+🌐 Interactive CV:
+https://karen-valenzuela-landero-cv-frontend.vercel.app
 
 🔗 API Endpoint:
 https://karen-cv-api.onrender.com/api/v1/profile
