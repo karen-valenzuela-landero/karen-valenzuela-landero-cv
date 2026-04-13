@@ -1,3 +1,15 @@
+# 💼 My CV as an API
+
+/* 🌐 Interactive CV:
+ https://karen-cv.netlify.app */
+
+🔗 API Endpoint:
+https://karen-cv-api.onrender.com/api/v1/profile
+⚠️ Note: The API may take up to 1 minute to start (free tier hosting).
+
+🔗 API Docs:
+https://karen-valenzuela-landero-cv.onrender.com/swagger-ui.html
+
 
 ## CV project
 
@@ -7,7 +19,7 @@ Includes :
 ☕ Java: 17+
 
 
-## Build del proyecto
+## Build 
 mvn clean package
 docker build -t karen-cv-api .
 docker run -p 8080:8080 karen-cv-api
