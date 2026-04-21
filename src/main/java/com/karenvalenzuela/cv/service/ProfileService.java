@@ -14,12 +14,18 @@ public class ProfileService {
                 "Java Full Stack Developer | QA Engineer",
 
                 List.of(
+                        "Java",
                         "Spring Boot",
-                        "Microservices",
                         "REST APIs",
+                        "SQL",
+                        "Git",
                         "Docker",
+                        "Maven",
+                        "Microservices",
                         "CI/CD",
-                        "Agile"
+                        "Agile/Scrum",
+                        "HTML",
+                        "Javascript"
                 ),
 
                 List.of(
@@ -46,10 +52,10 @@ public class ProfileService {
                 ),
 
                 List.of(
-                        "HTML/CSS",
-                        "JavaScript",
                         "Java",
-                        "SQL"
+                        "SQL",
+                        "JavaScript",
+                        "HTML/CSS"
                 ),
 
                 List.of(
