@@ -12,7 +12,7 @@ public class ProfileService {
         return new Profile(
                 "Karen Valenzuela",
                 "Java Full Stack Developer | QA Engineer",
-
+//SKILLS
                 List.of(
                         "Java",
                         "Spring Boot",
@@ -27,7 +27,7 @@ public class ProfileService {
                         "HTML",
                         "Javascript"
                 ),
-
+//DEV EXPERIENCE
                 List.of(
                         "Java Development",
                         "Web Development",
@@ -35,7 +35,7 @@ public class ProfileService {
                         "Scrum",
                         "Velneo Development"
                 ),
-
+//QA EXPERIENCE
                 List.of(
                         "Requirement Analysis",
                         "Search for Ambiguities",
@@ -50,14 +50,14 @@ public class ProfileService {
                         "Regression Testing",
                         "API Testing"
                 ),
-
+//LANGUAGES
                 List.of(
                         "Java",
                         "SQL",
                         "JavaScript",
                         "HTML/CSS"
                 ),
-
+//TECHNOLOGIES
                 List.of(
                         "Azure DevOps Test Plans",
                         "Test & Feedback Plugin",
